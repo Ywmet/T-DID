@@ -20,7 +20,7 @@ Indices and tables
 * :ref:`search`
 
 
-$project
+project
 ========
 
 $project will solve your problem of where to start with documentation,
