@@ -1,7 +1,0 @@
-
-
-## concept
-
-- did
-- hub
-- vc
