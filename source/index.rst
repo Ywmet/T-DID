@@ -19,11 +19,10 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-
-# mysample
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
 ## Index
 
-- [Chapter1](chapter.md)
+- [概念](../docs/concept.md)
+- [架构](../docs/architecture.md)
+- [场景](../scene.md)
+- [接入方式](../access.md)
+- [术语](../access.md)
