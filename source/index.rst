@@ -12,17 +12,22 @@ Welcome to Q-DID's documentation!
 
 
 
-Indices and tables
+[概念](../docs/concept.md)
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-## Index
+##  Index
 
-- [概念](../docs/concept.md)
-- [架构](../docs/architecture.md)
-- [场景](../scene.md)
-- [接入方式](../access.md)
-- [术语](../access.md)
+
+[架构](../docs/architecture.md)
+==================
+
+[场景](../scene.md)
+==================
+[接入方式](../access.md)
+==================
+[术语](../access.md)
+==================
